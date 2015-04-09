@@ -1,0 +1,78 @@
+about
+address
+bathroom
+by
+exit
+kitchen
+left
+middle
+motorcycle
+mountain
+tire
+traffic
+trip
+sobre
+prestes a
+tráfego
+trânsito
+movimento
+sobre
+prestes a
+cozinha
+cozinha
+cozinha
+cozinha
+perto de
+próximo a
+sobre
+prestes a
+cansar
+fatigar
+cansar
+fatigar
+middle
+about
+by
+exit
+tire
+trip
+kitchen
+address
+bathroom
+traffic
+mountain
+motorcycle
+left
+middle
+exit
+kitchen
+about
+address
+bathroom
+by
+tire
+traffic
+mountain
+trip
+motorcycle
+left
+adjetivo 3
+substantivo 1
+substantivo 4
+substantivo 0
+verbo 0
+trip
+traffic
+tire
+mountain
+motorcycle
+middle
+left
+exit
+by
+address
+about
+middle
+médio
+central
+intermediário

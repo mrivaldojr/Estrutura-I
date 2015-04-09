@@ -1,0 +1,55 @@
+13
+about a 2
+sobre
+prestes a
+address s 2
+endereco
+direção
+traffic s 3
+tráfego
+trânsito
+movimento
+left s 1
+esquerda
+tire v 2
+cansar
+fatigar
+bathroom s 2
+banheiro
+sanitario
+by a 2
+perto de
+próximo a
+mountain s 2
+montanha
+monte
+exit v 1
+sair
+trip v 4
+tropeçar
+errar
+rasteirar
+saltitar
+kitchen s 1
+cozinha
+motorcycle s 2
+motocicleta
+moto
+middle a 3
+médio
+central
+intermediário
+t trip
+t middle
+t tire
+t trip
+t asd
+a a
+a s
+a v
+i 8
+r trip
+i 8
+l c
+t about
+e
